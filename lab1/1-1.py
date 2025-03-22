@@ -14,7 +14,7 @@ for i in range(n):
     freq = [0] * 26
 
     # 内层循环：遍历从i开始到字符串末尾的所有可能结束位置
-    for j in range(i, n):
+    for j in range(i, n):#在python中，是以str的形式存储，所以不能直接相减，而是要调用ord()函数
         # 将字符转换为0-25的索引
         # ord(s[j]) 得到字符的ASCII值
         # ord('a') 得到字母'a'的ASCII值
