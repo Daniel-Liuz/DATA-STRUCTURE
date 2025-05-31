@@ -133,6 +133,30 @@ build CMakeFiles/DATA_Structure_Training.dir/lab12/2.cpp.obj: CXX_COMPILER__DATA
   OBJECT_DIR = CMakeFiles\DATA_Structure_Training.dir
   OBJECT_FILE_DIR = CMakeFiles\DATA_Structure_Training.dir\lab12
 
+build CMakeFiles/DATA_Structure_Training.dir/lab12/3.cpp.obj: CXX_COMPILER__DATA_Structure_Training_unscanned_Debug E$:/华东师范大学大二/数据结构/DATA$ Structure$ Training/lab12/3.cpp || cmake_object_order_depends_target_DATA_Structure_Training
+  DEP_FILE = CMakeFiles\DATA_Structure_Training.dir\lab12\3.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\DATA_Structure_Training.dir
+  OBJECT_FILE_DIR = CMakeFiles\DATA_Structure_Training.dir\lab12
+
+build CMakeFiles/DATA_Structure_Training.dir/lab13/1.cpp.obj: CXX_COMPILER__DATA_Structure_Training_unscanned_Debug E$:/华东师范大学大二/数据结构/DATA$ Structure$ Training/lab13/1.cpp || cmake_object_order_depends_target_DATA_Structure_Training
+  DEP_FILE = CMakeFiles\DATA_Structure_Training.dir\lab13\1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\DATA_Structure_Training.dir
+  OBJECT_FILE_DIR = CMakeFiles\DATA_Structure_Training.dir\lab13
+
+build CMakeFiles/DATA_Structure_Training.dir/lab14/1.cpp.obj: CXX_COMPILER__DATA_Structure_Training_unscanned_Debug E$:/华东师范大学大二/数据结构/DATA$ Structure$ Training/lab14/1.cpp || cmake_object_order_depends_target_DATA_Structure_Training
+  DEP_FILE = CMakeFiles\DATA_Structure_Training.dir\lab14\1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\DATA_Structure_Training.dir
+  OBJECT_FILE_DIR = CMakeFiles\DATA_Structure_Training.dir\lab14
+
+build CMakeFiles/DATA_Structure_Training.dir/test/14.1.cpp.obj: CXX_COMPILER__DATA_Structure_Training_unscanned_Debug E$:/华东师范大学大二/数据结构/DATA$ Structure$ Training/test/14.1.cpp || cmake_object_order_depends_target_DATA_Structure_Training
+  DEP_FILE = CMakeFiles\DATA_Structure_Training.dir\test\14.1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\DATA_Structure_Training.dir
+  OBJECT_FILE_DIR = CMakeFiles\DATA_Structure_Training.dir\test
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DATA_Structure_Training
@@ -141,7 +165,7 @@ build CMakeFiles/DATA_Structure_Training.dir/lab12/2.cpp.obj: CXX_COMPILER__DATA
 #############################################
 # Link the executable DATA_Structure_Training.exe
 
-build DATA_Structure_Training.exe: CXX_EXECUTABLE_LINKER__DATA_Structure_Training_Debug CMakeFiles/DATA_Structure_Training.dir/lab1/1-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab2/2-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab2/2-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab5/5-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab6/6-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab7/7-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab7/7-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab10/10-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab10/10-3.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab10/10-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab11/1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab11/2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab12/1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab12/2.cpp.obj
+build DATA_Structure_Training.exe: CXX_EXECUTABLE_LINKER__DATA_Structure_Training_Debug CMakeFiles/DATA_Structure_Training.dir/lab1/1-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab2/2-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab2/2-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab5/5-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab6/6-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab7/7-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab7/7-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab10/10-2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab10/10-3.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab10/10-1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab11/1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab11/2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab12/1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab12/2.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab12/3.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab13/1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/lab14/1.cpp.obj CMakeFiles/DATA_Structure_Training.dir/test/14.1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\DATA_Structure_Training.dir

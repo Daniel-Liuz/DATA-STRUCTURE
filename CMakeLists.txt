@@ -17,4 +17,8 @@ add_executable(DATA_Structure_Training
         lab11/1.cpp
         lab11/2.cpp
         lab12/1.cpp
-        lab12/2.cpp)
+        lab12/2.cpp
+        lab12/3.cpp
+        lab13/1.cpp
+        lab14/1.cpp
+        test/14.1.cpp)
